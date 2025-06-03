@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Pygame
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+
+# Game specific
+*.mp3
+*.wav
+*.ogg
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.ico
+
+# Keep specific game assets
+!anime.gif
+!power_sword.png
+!fire-sword.gif
+!power_sword_update.png
+!powers.mp3
+!zombie.gif 
